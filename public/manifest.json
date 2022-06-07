@@ -1,0 +1,9 @@
+{
+	"name": "Aelin Vesting",
+	"iconPath": "images/aelin-logo.png",
+	"description": "A dApp for Aelin vesting",
+	"providedBy": {
+		"name": "Aelin Vesting",
+		"url": "https://vesting.aelin.xyz"
+	}
+}
